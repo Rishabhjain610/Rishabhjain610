@@ -1,6 +1,8 @@
 <div align="center">
   <h1>Hi 👋, I'm Rishabh Jain</h1>
-  <strong>A passionate Computer Engineering Student & Full Stack Developer</strong>
+  <a href="https://readme-typing-svg.demolab.com">
+      <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=25&pause=1000&color=00FF00&center=true&vCenter=true&width=450&lines=Computer+Engineering+Student;Full+Stack+Developer;Software+Engineer" alt="Typing SVG" />
+  </a>
   <br>
   <strong>📍 Based in Mumbai, India</strong>
 </div>
@@ -54,6 +56,8 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
 
 ---
 
